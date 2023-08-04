@@ -18,4 +18,4 @@ Make sure you have the following Python libraries installed:
 - scikit-learn (sklearn)
 - matplotlib
 
-You can install them using the following command:
+You can install them using the following command: `pip`
